@@ -1,0 +1,2 @@
+in order to build you need to have Qt5 + Qt5 Android + Android SDK JDK
+For more information please contact me
